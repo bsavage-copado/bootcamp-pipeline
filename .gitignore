@@ -19,6 +19,10 @@ classes/copado__*
 triggers/copado__*
 pages/copado__*
 
+classes/SocialService__*
+triggers/SocialService__*
+pages/SocialService__*
+
 Canvases*
 
 #profiles and permission sets are complex Files. If your Org's metadata and Git are in sync, 
