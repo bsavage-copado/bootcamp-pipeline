@@ -90,6 +90,7 @@
         <excludeButtons>MassChangeOwner</excludeButtons>
         <fields>NAME</fields>
         <fields>Expense_Type__c</fields>
+        <fields>Amount__c</fields>
         <relatedList>Expense_Item__c.Travel_Approval__c</relatedList>
         <sortField>NAME</sortField>
         <sortOrder>Asc</sortOrder>
